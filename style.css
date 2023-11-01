@@ -941,9 +941,10 @@ footer a {
   }
   .projects {
     margin-top: 1rem;
+    width: fit-content;
   }
   .project {
-    width: 90%;
+    width: fit-content;
   }
   .project-info h2 {
     font-size: 1rem;
@@ -967,75 +968,4 @@ footer a {
     padding: 2rem 1rem;
   }
 }
-@media screen and (min-width: 330px) {
-  nav ul li a {
-    font-size: 0.7rem;
-  }
-  .github-btn {
-    display: none;
-  }
-  main {
-    flex-direction: column-reverse;
-    margin: 0 1rem;
-    gap: 0rem;
-  }
-  main .left {
-    margin-top: 4rem;
-  }
-  main .left h1 {
-    font-size: 2rem;
-  }
-  main .left p {
-    font-size: 0.8rem;
-  }
-  main .right img {
-    height: 30vh;
-  }
-  .github-btn-cta {
-    width: 11rem;
-    margin-bottom: 2rem;
-  }
-  .project-section {
-    margin: -2rem 0.6rem 3rem 0.7rem;
-  }
-  .title {
-    font-size: 1.5rem;
-    margin-top: -2rem;
-  }
-  .bg-title {
-    font-size: 3rem;
-    margin-left: -1rem;
-  }
-  .projects {
-    margin-top: 1rem;
-    width: 130%;
-    margin: 0;
-    padding:0;
 
-  }
-  .project {
-    width: 90%;
-  }
-  .project-info h2 {
-    font-size: 1rem;
-    
-  }
-  .project-info p {
-    font-size: 0.8rem;
-  }
-  .project-info .row {
-    padding: 0 0.5rem;
-    display: flex;
-    flex-direction: column;
-  }
-  .tech span {
-    font-size: 1.1rem;
-  }
-  .links {
-    font-size: 0.8rem;
-  }
-  footer {
-    flex-direction: column;
-    padding: 2rem 1rem;
-  }
-}
