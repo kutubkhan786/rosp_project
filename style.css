@@ -587,11 +587,18 @@ main {
   padding: 2rem;
   gap: 4rem;
   margin: 0 8rem;
-  position: sticky;
+  /* position: sticky; Remove this line */
   top:0%;
   z-index: -1;
-
+  height: 100vh;
+  transition: transform 0.5s;
 }
+
+/* Add a class to hide the 'main' section */
+.hidden-main {
+  display: none;
+}
+ 
 
 main .right img {
   animation: imgUp 1s linear infinite alternate;
@@ -651,8 +658,8 @@ main .left p {
 }
 
 .projectsection {
-  border: 1px rgb(185, 185, 185) solid;
-  background-color:rgb(255, 255, 255); 
+  /* border: 1px rgb(185, 185, 185) solid; */
+  /* background-color:rgb(255, 255, 255);  */
   /* margin-left : .6rem;
   margin-right : .6rem; */
   /* margin: -2.5rem 8rem 6rem 8rem; */
@@ -667,7 +674,7 @@ main .left p {
 }
 
 .title {
-  color: #0d4360;
+  /* color: #0d4360; */
   font-size: 3rem;
   margin-top: -6rem;
 }
@@ -726,7 +733,7 @@ main .left p {
 
 .project-header button {
   font-size: 1rem;
-  background-color: white;
+  /* background-color: white; */
   margin: 0;
   padding: 0;
   border: 0px;
@@ -738,7 +745,7 @@ main .left p {
   flex-direction: column;
   align-items: center;
   margin-top: 4rem;
-  background-color: #0d4360;
+  /* background-color: #0d4360; */
   border-radius: 0.2rem;
   transition: all 0.5s ease;
 }
@@ -762,7 +769,7 @@ main .left p {
   justify-content: center;
   align-items: center;
   gap: 1rem;
-  color: white;
+  /* color: white; */
   width: 100%;
   padding: 1rem;
 }
@@ -795,7 +802,7 @@ main .left p {
 
 .tech span {
   border: 1px solid #05f2c7;
-  color: #05f2c7;
+  /* color: #05f2c7; */
   padding: 0.4rem 0.7rem;
   border-radius: 0.2rem;
   font-size: 0.8rem;
@@ -809,25 +816,25 @@ main .left p {
 }
 
 .links a {
-  color: white;
+  /* color: white; */
 }
 
 .links a:hover {
-  color: #05f2c7;
+  /* color: #05f2c7; */
 }
 
 .contributors {
   /* margin: -2.5rem 8rem 4rem 8rem; */
   margin:8rem;
   border: 1px solid white;
-  background-color: white;
+  /* background-color: white; */
   
 }
 
 .contributors .list-section {
   margin-top: 4rem;
   padding: 2rem;
-  background-color: #0d4360;
+  /* background-color: #0d4360; */
   border-radius: 0.5rem;
 }
 
@@ -855,7 +862,7 @@ main .left p {
 
 
 footer {
-  background-color: #0d4360;
+  /* background-color: #0d4360; */
   padding: 2rem 8rem;
   display: flex;
   justify-content: space-between;
