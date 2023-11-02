@@ -133,3 +133,14 @@ fetch("https://api.github.com/repos/TusharKesarwani/Front-End-Projects/contribut
     }
     window.onscroll=calculateScrollValue;
     window.onload=calculateScrollValue;
+
+
+    // Get the theme toggle button element
+const themeToggle = document.getElementById("theme-toggle");
+
+// Add a click event listener to the button
+themeToggle.addEventListener("click", () => {
+  // Toggle the 'dark-theme' class on the body element
+  document.body.classList.toggle("dark-theme");
+//   document.projectsection.classList.toggle("dark-theme");
+});

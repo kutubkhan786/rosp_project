@@ -1,3 +1,97 @@
+/* Reset and base styles */
+body, .notLoaded {
+  background-color: white;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+  font-family: "Noto Sans", sans-serif;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+/* Dark Theme Styles */
+body.dark-theme {
+  background-color: #0d4360;
+  color: white;
+}
+
+/* Import Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700&display=swap");
+
+/* Preloader styles */
+.loading-text {
+  letter-spacing: 5px;
+  color: rgb(180, 180, 180);
+}
+
+:root {
+  --duration: 1.5s;
+  --container-size: 250px;
+  --box-size: 33px;
+  --box-border-radius: 15%;
+}
+
+#load {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.container {
+  width: var(--container-size);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.box {
+  width: var(--box-size);
+  height: var(--box-size);
+  position: relative;
+  display: block;
+  transform-origin: -50% center;
+  border-radius: var(--box-border-radius);
+}
+
+.box:after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: lightblue;
+  border-radius: var(--box-border-radius);
+  box-shadow: 0px 0px 10px 0px rgba(28, 159, 255, 0.4);
+}
+
+/* Keyframes for animations */
+
+/* Add your keyframes here */
+
+/* Other styles... */
+
+/* Navigation styles */
+
+/* Main content styles */
+
+/* Footer styles */
+
+/* Media queries for responsiveness */
+
+/* Add your responsive styles here */
+
+
+
+
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700&display=swap");
 * {
   margin: 0;
@@ -556,9 +650,9 @@ main .left p {
 
 }
 
-.project-section {
+.projectsection {
   border: 1px rgb(185, 185, 185) solid;
-  background-color:rgb(255, 255, 255); 
+  /* background-color:rgb(255, 255, 255);  */
   /* margin-left : .6rem;
   margin-right : .6rem; */
   /* margin: -2.5rem 8rem 6rem 8rem; */
@@ -566,7 +660,7 @@ main .left p {
   /* margin-bottom:1rem ; */
   z-index: 10000;
 }
-.project-section:hover{
+.projectsection:hover{
   box-shadow: 2px 2px 2px 2px rgb(163, 163, 163);
   transition-duration: 0.5s;
 
@@ -790,7 +884,7 @@ footer a {
   .github-btn-cta {
     width: 11rem;
   }
-  .project-section {
+  .projectsection {
     margin: -2.5rem 4rem 4rem 4rem;
   }
   .title {
@@ -855,7 +949,7 @@ footer a {
     width: 11rem;
     margin-bottom: 2rem;
   }
-  .project-section {
+  .projectsection {
     margin: -2.5rem 2rem 4rem 2rem;
   }
   .title {
@@ -928,7 +1022,7 @@ footer a {
     width: 11rem;
     margin-bottom: 2rem;
   }
-  .project-section {
+  .projectsection {
     margin: -2.5rem 1rem 4rem 1rem;
   }
   .title {
