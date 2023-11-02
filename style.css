@@ -862,7 +862,7 @@ main .left p {
 
 
 footer {
-  /* background-color: #0d4360; */
+  background-color: #0d4360;
   padding: 2rem 8rem;
   display: flex;
   justify-content: space-between;
