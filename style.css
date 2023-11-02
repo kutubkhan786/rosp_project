@@ -617,7 +617,7 @@ main .left .headings {
 
 main .left h1 {
   font-size: 4rem;
-  color: #0d4360;
+  /* color: #0d4360; */
   line-height: 100%;
   
 
@@ -626,7 +626,7 @@ main .left h1 {
 main .left p {
   font-size: 0.8rem;
   width: 90%;
-  color: #3d3d3d;
+  /* color: #3d3d3d; */
   
 
 }
@@ -652,7 +652,7 @@ main .left p {
 
 .projectsection {
   border: 1px rgb(185, 185, 185) solid;
-  /* background-color:rgb(255, 255, 255);  */
+  background-color:rgb(255, 255, 255); 
   /* margin-left : .6rem;
   margin-right : .6rem; */
   /* margin: -2.5rem 8rem 6rem 8rem; */
