@@ -87,8 +87,11 @@ You can refer to the following articles on **_basics of Git and Github and also 
 <table align="center">
   <tr>
     <td>
-       <a href="https://github.com/kutubkhan7876/rosp-roject/graphs/contributors" align="center">
-          <img src="https://contrib.rocks/image?repo=kutubkhan786/Front-End-Projects" />
+       <a href="https://github.com/kutubkhan786/rosp-roject/graphs/contributors" align="center">
+         <sub><b>Kutubkhan Merchant</b></sub>
+	        <sub><b>Burhanuddin Motorwala</b></sub>
+	        <sub><b>Maroof Ahmed</b></sub>
+	        <sub><b>Saklen Mujawar</b></sub>
        </a>
     </td>
   </tr>
