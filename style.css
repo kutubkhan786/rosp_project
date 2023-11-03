@@ -860,7 +860,9 @@ main .left p {
     cursor: pointer;
 }
 
-
+#theme-toggle{
+  background-color:#0d4360;
+}
 footer {
   background-color: #0d4360;
   padding: 2rem 8rem;
