@@ -1,9 +1,8 @@
-# Front-End-Projects
-![Front-End-Projects](https://socialify.git.ci/TusharKesarwani/Front-End-Projects/image?description=1&descriptionEditable=A%20place%20for%20Developers&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+# Rosp Project
 
 <p align="center">
-  <a href="https://frontendprojects.netlify.app/">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg">
+  <a href="https://rospproject.netlify.app/">
+    
    </a>
 </p>
 
@@ -11,24 +10,7 @@
 <div align="center">
  <p>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=TusharKesarwani%2FFront-End-Projects%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/TusharKesarwani/Front-End-Projects)
-![GitHub Repo stars](https://img.shields.io/github/stars/TusharKesarwani/Front-End-Projects)
-![GitHub contributors](https://img.shields.io/github/contributors/TusharKesarwani/Front-End-Projects)
-![GitHub last commit](https://img.shields.io/github/last-commit/TusharKesarwani/Front-End-Projects)
-  
-![GitHub repo size](https://img.shields.io/github/repo-size/TusharKesarwani/Front-End-Projects)
 
-![Github](https://img.shields.io/github/license/TusharKesarwani/Front-End-Projects)
-![GitHub issues](https://img.shields.io/github/issues/TusharKesarwani/Front-End-Projects)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/TusharKesarwani/Front-End-Projects)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/TusharKesarwani/Front-End-Projects)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/TusharKesarwani/Front-End-Projects)
- </p>
-</div>
- 
  ## 📌 Open Source Program
 
  ### This project is a part of following Open Source Programs
@@ -36,21 +18,6 @@
  ---
 
 <div align="center">
-
-![SSOC 2.0](https://raw.githubusercontent.com/TusharKesarwani/Front-End-Projects/main/img/SSOC.png)
-
-</div>
-
-<div align="center">
-
-![SWOC 3.0](https://raw.githubusercontent.com/TusharKesarwani/Front-End-Projects/main/img/9630b803-7d9b-4b19-ae68-cdbfc16c8254.png)
-
-</div>
-
-
- ---
-
-
 
 
 
@@ -86,16 +53,11 @@ You can refer to the following articles on **_basics of Git and Github and also 
 	</a>
 </h2>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-of-tushar.netlify.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar104)
-
 
 <h2 align=center>⭐Stars Chart</h2>  
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/TusharKesarwani/Front-End-Projects.svg)](https://starchart.cc/TusharKesarwani/Front-End-Projects)
 
 <h2 align=center>Project Admin</h2> 
 <table align="center">
@@ -125,8 +87,8 @@ You can refer to the following articles on **_basics of Git and Github and also 
 <table align="center">
   <tr>
     <td>
-       <a href="https://github.com/TusharKesarwani/Front-End-Projects/graphs/contributors" align="center">
-          <img src="https://contrib.rocks/image?repo=TusharKesarwani/Front-End-Projects" />
+       <a href="https://github.com/kutubkhan7876/rosp-roject/graphs/contributors" align="center">
+          <img src="https://contrib.rocks/image?repo=kutubkhan786/Front-End-Projects" />
        </a>
     </td>
   </tr>
@@ -137,5 +99,5 @@ You can refer to the following articles on **_basics of Git and Github and also 
 <h1 align=center>Happy Coding 👨‍💻</h1>
 
 Show some ❤️&nbsp; by giving the star to this repo
-<p align="right"><a href="https://github.com/TusharKesarwani/Front-End-Projects">Back to top</a></p>
+<p align="right"><a href="https://github.com/kutubkhan786/Front-End-Projects">Back to top</a></p>
 "# rosp_project" 
