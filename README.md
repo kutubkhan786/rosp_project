@@ -64,8 +64,8 @@ You can refer to the following articles on **_basics of Git and Github and also 
 	<tr >
     <td align="center">
             <a href="https://github.com/kutubkhan786">
-              <img src="https://avatars.githubusercontent.com/u/92527686?v=4" width="100px" alt=""/><br />
-              <sub><b>TusharKesarwani</b></sub>
+              <img src="" width="100px" alt=""/><br />
+              <sub><b>Kutubkhan Merchant</b></sub>
             </a>
    </td>
   </tr>
